@@ -1,4 +1,7 @@
-### Hi there 👋
+![AboutMe](https://user-images.githubusercontent.com/37360920/123388422-bd8ecc00-d5d3-11eb-8bfd-1e5b7486b4cb.gif)
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **pjh6954/pjh6954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
